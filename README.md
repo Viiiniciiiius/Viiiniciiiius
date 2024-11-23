@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Viiiniciiiius
 - 👀 I’m interested in do my best
 - 🌱 I’m currently learning typescript
-- ⚡ Fun fact: Games
+- ⚡ Fun fact: I do physical exercise
 
 <!---
 Viiiniciiiius/Viiiniciiiius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
