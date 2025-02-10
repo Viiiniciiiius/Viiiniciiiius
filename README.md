@@ -6,12 +6,13 @@ I'm a passionate student, learning through hands-on experience how a programmer 
 
 Currently, I am focused on improving my skills in **React**, **TypeScript**, and **software architecture**. I am also exploring advanced concepts of **back-end** and **databases**.
 
+![Viiiniciiiius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viiiniciiiius&show_icons=true&theme=radical)
+
 ### 🎯 Goal
 
 My goal is to become a highly skilled full-stack developer, ready to tackle real-world challenges! 💪
 
 ---
-
 ### 💻 Technologies & Tools
 
 <div style="display: inline_block">
