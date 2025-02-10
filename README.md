@@ -2,9 +2,19 @@
 
 I'm a passionate student, learning through hands-on experience how a programmer works. Always looking to improve my skills and explore new technologies! 🚀
 
+### 🌱 What I'm learning
+
+Currently, I am focused on improving my skills in **React**, **TypeScript**, and **software architecture**. I am also exploring advanced concepts of **back-end** and **databases**.
+
+### 🎯 Goal
+
+My goal is to become a highly skilled full-stack developer, ready to tackle real-world challenges! 💪
+
+---
+
 ### 💻 Technologies & Tools
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Vinicius-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Vinicius-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vinicius-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,17 +26,10 @@ I'm a passionate student, learning through hands-on experience how a programmer 
 ### 📱 Where to find me
 
 <div>
-  <a href="https://github.com/viiiniciiiius" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/viiiniciiiius/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/viiiniciiiius" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/viiiniciiiius" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-
-### 🌱 What I'm learning
-
-Currently, I am focused on improving my skills in **React**, **TypeScript**, and **software architecture**. I am also exploring advanced concepts of **back-end** and **databases**.
-
-### 🎯 Goal
-
-My goal is to become a highly skilled full-stack developer, ready to tackle real-world challenges! 💪
 
 ---
 
